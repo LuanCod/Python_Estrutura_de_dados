@@ -19,5 +19,5 @@ As estruturas de controle em Python permitem que você defina o fluxo de execuç
 
 ## Importância
 
-Compreender e utilizar as estruturas de dados adequadas é fundamental para a eficiência e a clareza do código, além de ser essencial para resolver problemas complexos em algoritmos e desenvolvimento de software.
+Compreender e utilizar as estruturas de dados e de controle adequadas é fundamental para a eficiência e a clareza do código, além de ser essencial para resolver problemas complexos em algoritmos e desenvolvimento de software.
 
